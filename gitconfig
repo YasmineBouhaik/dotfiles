@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yasmine.bouhaik@gmail.com
+	name = YasmineBouhaik
